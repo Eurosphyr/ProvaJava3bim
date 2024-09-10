@@ -12,4 +12,5 @@ public record SerieDTO(
         String poster,
         String sinopse){
 
+    
 }
